@@ -1,6 +1,6 @@
 {
   "name": "comment-up-react",
-  "version": "0.1.0-0",
+  "version": "0.1.1-0",
   "description": "A React comment system that can be added to websites",
   "main": "build/index.js",
   "files": [
