@@ -24,7 +24,8 @@
   "scripts": {
     "start": "webpack --watch",
     "build": "webpack",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build",
+    "release": "np"
   },
   "repository": {
     "type": "git",
