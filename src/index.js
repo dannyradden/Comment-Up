@@ -2,7 +2,7 @@ import React from "react";
 
 const ReactStart = props => {
     return (
-        <div/>
+        <div>Hello World</div>
     );
 };
 
